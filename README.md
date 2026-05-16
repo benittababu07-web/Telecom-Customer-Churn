@@ -3,6 +3,7 @@ About Dataset
 Certainly! Here’s a detailed and engaging description of Telecom Customer Churn.
 This dataset provides a comprehensive view of customer behavior and churn in the telecom industry. It includes detailed information on customer demographics, service usage, and various indicators that are critical for analyzing customer retention and churn.
 Key Features:
+
 •	CustomerID: Unique identifier for each customer.
 •	Age: Age of the customer, reflecting their demographic profile.
 •	Gender: Gender of the customer (Male or Female).
